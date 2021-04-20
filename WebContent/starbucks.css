@@ -1,0 +1,10 @@
+@charset "EUC-KR";
+
+html{font-size: 20px;}
+body{font-size: 1rem;}
+
+header {background: #f6f5ef; border-top: 2px solid #000;}
+header>div{width:1090px; margin: 0 auto;}
+header>div h1{float:left;}
+header>div nav{float:right;}
+header>div .spot{position:ablsolute;right:0;top:0;}
